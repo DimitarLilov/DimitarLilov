@@ -6,4 +6,4 @@
 * 👨🏼‍💻 JavaScript Developer
 * 🎰 [Slots Developer](https://7mojos.com/slots)
 * 😀 Mega-Stack Developer
-* 💼 I’m on Linkedin [Dimitar Lilov](https://www.linkedin.com/in/dimitar-lilov-655a221a4/)
+* 💼 I’m on Linkedin [Dimitar Lilov](https://www.linkedin.com/in/dimitar-lilov/)
