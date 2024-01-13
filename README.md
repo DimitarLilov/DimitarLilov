@@ -1,4 +1,4 @@
-Hi ![](/images/hi.gif){width=66} My name is Dimitar Lilov
+Hi <img src="/images/hi.gif" alt="hi" style="width:66px;"/> My name is Dimitar Lilov
 =====================================================================================================================================
 
 Software Engineer
