@@ -27,8 +27,3 @@ Software Engineer
   <a href="https://medium.com/@dimitar.lilov.dev" target="_blank" style="text-decoration:none;"><img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 </div>
 
-<br/>  
-
-### Badges
-
-<a href="https://github.com/DimitarLilov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitarLilov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
