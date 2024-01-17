@@ -27,3 +27,6 @@ Software Engineer
   <a href="https://medium.com/@dimitar.lilov.dev" target="_blank" style="text-decoration:none;"><img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" /></a>
 </div>
 
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=DimitarLilov&color=blue)
+</div>
