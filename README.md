@@ -13,7 +13,7 @@ Software Engineer
 ### Skills 
 <p align="center">
   <a href="https://github.com/DimitarLilov#skills">
-    <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,git,linux,dotnet,nodejs,express,redux,jquery,pug,php,go,py,lua,sass,bootstrap,webpack,babel,docker,jenkins,rabbitmq,grafana,postgres,mongodb,mysql,firebase,gitlab,github,githubactions,bash,powershell,neovim,visualstudio,vscode,aws,ps,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,react,angular,git,linux,dotnet,nodejs,express,redux,jquery,pug,php,go,py,lua,sass,bootstrap,webpack,babel,docker,jenkins,rabbitmq,grafana,postgres,mongodb,mysql,firebase,gitlab,github,githubactions,terraform,bash,powershell,neovim,visualstudio,vscode,aws,azure,ps,postman" />
   </a>
 </p>
 
