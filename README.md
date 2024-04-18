@@ -8,8 +8,6 @@ Software Engineer
 *   🌍  I'm based in Sofia
 *   🖥️  See my portfolio at [dimitar-lilov.dev](http://www.dimitar-lilov.dev)
 *   ✉️  You can contact me at [dimitar.lilov.dev@gmail.com](mailto:dimitar.lilov.dev@gmail.com)
-*   🚀  I'm currently working on [Slot Games](http://7mojos.com/slots)
-*   🤝  I'm open to collaborating on Other slot projects
   
 ### Skills 
 <p align="center">
